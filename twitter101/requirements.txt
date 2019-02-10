@@ -1,0 +1,21 @@
+# notebook specific modules
+twython==3.7.0
+searchtweets==1.7.4
+selenium==3.141.0
+twint==1.2.0.0
+aiohttp-socks==0.2.2
+tornado==4.5.3
+
+
+# notebook common modules
+autopep8==1.4.3
+jupyter==1.0.0
+jupyter-contrib-nbextensions==0.5.1
+jupyter-nbextensions-configurator==0.4.1
+matplotlib==3.0.2
+pandas==0.24.1
+seaborn==0.9.0
+scikit-learn==0.20.2
+
+# dependencies
+pycodestyle==2.5.0
